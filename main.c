@@ -3,7 +3,7 @@
  * STUDENT NAME:   Anthony Wright
  * NAPIER UNIVERSITY
  * APRIL 2020
- * CONNECT 4
+ * CONNECT 4 new
  */
 
 #include <stdlib.h>
